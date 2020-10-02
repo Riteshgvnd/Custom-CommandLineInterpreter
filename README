@@ -1,0 +1,10 @@
+Welcome to Custom Shell:
+1. To Compile:
+    open Terminal and run command "make" to compile all C source files
+    
+    $ make
+
+2. Running the Shell:
+    open Terminal and type "./MyShell"
+
+    $ ./MyShell
